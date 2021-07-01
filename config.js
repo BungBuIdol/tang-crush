@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Em yêu  à!',
+    introTitle: 'Bé con à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Yêu em nhiều nhiêu ',
+    messDesc: 'Làm vợ anh nhé bé con❤️. ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/anhhmsd1105' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https: //www.facebook.com/ngo.livilr' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
